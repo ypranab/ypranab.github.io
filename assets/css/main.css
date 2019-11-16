@@ -1851,8 +1851,8 @@ input, select, textarea {
 
 		.feature-list h3 {
 			color: #e97770 !important;
-			margin: -0.35em 0 0.75em 0;
-			font-size: 1.15em;
+			margin: -0.1em 0 0.1em 0;
+			font-size: 2em;
 			letter-spacing: 0.05em;
 		}
 
@@ -2086,15 +2086,15 @@ input, select, textarea {
 		width: 100%;
 		text-align: center;
 		position: relative;
-		top: 1.5em;
+		top: 14.5em;
 	}
 
 		#logo h1 {
 			font-weight: 900;
 			text-transform: uppercase;
-			color: #fff;
+			color: black;
 			font-size: 2em;
-			letter-spacing: 0.25em;
+			letter-spacing: 0.1em;
 		}
 
 		#logo p {
@@ -2123,7 +2123,7 @@ input, select, textarea {
 			border-radius: 0.35em;
 			box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
 			padding: 0 1.5em 0 1.5em;
-
+			background-color: black;
 		}
 
 			#nav > ul > li {
@@ -2139,7 +2139,7 @@ input, select, textarea {
 				#nav > ul > li > a, #nav > ul > li > span {
 					display: block;
 					//background-color: orange;
-					color: rgba(255, 255, 255, 0.75);
+					color: #fff;
 					text-transform: uppercase;
 					text-decoration: none;
 					font-size: 0.9em;
@@ -2155,7 +2155,7 @@ input, select, textarea {
 				}
 
 				#nav > ul > li:hover > a {
-					color: #fff;
+					color: #e97770 ;
 				}
 
 				#nav > ul > li.active > a, #nav > ul > li.active > span {
@@ -2438,7 +2438,7 @@ input, select, textarea {
 		/* Wrapper */
 
 			.wrapper {
-				padding: 4em 0 7em 0;
+				padding: 0 0 7em 0;
 			}
 
 		/* Logo */
